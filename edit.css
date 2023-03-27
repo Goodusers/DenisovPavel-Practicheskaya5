@@ -1,0 +1,64 @@
+.zagolovok{
+    width: 100%;
+    height: 15vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 100%;
+    height: 90vh;
+}
+.edit{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;   
+}
+.form_edit{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.container_flex{
+    width: 100%;
+    height: 90%;
+}
+.input-group{
+    width: 50%;
+    height: 30%;
+}
+.input-group input{
+    width: 100%;
+    height: 30vh;
+}
+.ig-radio{
+    width: 50%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.input-group button{
+    width: 100%;
+    height: 90%;
+}
+.btn-edit{
+    width: 40px;
+    height: 42px;
+    background-color: yellow;
+    border:none;
+}
+.btn-del{
+    width: 40px;
+    height: 41px;
+    background-color: red;
+    border: none
+}
+.sub-btn{
+    background-color: #04d148;
+    border: 1px solid green;
+}
