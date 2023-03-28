@@ -9,7 +9,7 @@
 <body>
 	<div class="container">
 		<div class="zagolovok"><h2>Регистрация</h2></div>
-		<form action="registrationDB.php" method="POST" enctype="multipart/form-data">
+		<form action="/registrationDB.php" method="POST" enctype="multipart/form-data">
 			<div class="input-group">
 				<label for="surname">Введите фамилию</label>
 				<input type="text" id="surname" name="surname">
